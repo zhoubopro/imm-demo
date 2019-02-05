@@ -2,48 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="561ad659-2e26-4356-9e62-561bdf103390" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/env.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/jest/cssTransform.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/jest/fileTransform.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/paths.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/webpack.config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/webpackDevServer.config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assets/bike.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assets/end_point.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assets/imooc.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assets/logo-ant.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assets/start_point.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assets/user_location.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/build.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/start.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/admin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/axios/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Header/Header.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/NavLeft/NavLeft.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/NavLeft/NavLeft.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/config/menuConfig.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pages/Home/Home.jsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pages/Home/Home.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/style/common.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/style/default.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/style/loading.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/utils/utils.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/zz.less" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -57,65 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Header.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Header/Header.js">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="55" column="16" lean-forward="false" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/axios/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/admin.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.less" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/style/common.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Home.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Home/Home.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NavLeft.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/NavLeft/NavLeft.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="27" column="24" lean-forward="false" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+            <state relative-caret-position="158">
+              <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -178,6 +84,7 @@
         <option value="$PROJECT_DIR$/src/admin.js" />
         <option value="$PROJECT_DIR$/src/components/Header/Header.js" />
         <option value="$PROJECT_DIR$/src/pages/Home/Home.less" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -224,91 +131,6 @@
             <path>
               <item name="imm-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="imm-demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imm-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imm-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imm-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imm-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imm-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="axios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imm-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imm-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Footer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imm-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Header" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imm-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="NavLeft" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imm-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imm-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imm-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="Home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imm-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="style" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imm-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -361,12 +183,20 @@
       <updated>1546701369842</updated>
       <workItem from="1546701371351" duration="17288000" />
       <workItem from="1546932621494" duration="343000" />
-      <workItem from="1549350298249" duration="294000" />
+      <workItem from="1549350298249" duration="485000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1549350647236</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549350647236</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17925000" />
+    <option name="totallyTimeSpent" value="18116000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -405,6 +235,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -631,16 +465,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Header/Header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="55" column="16" lean-forward="false" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Home/Home.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -663,6 +487,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="55" column="16" lean-forward="false" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
           <folding />
         </state>
       </provider>
