@@ -1,6 +1,5 @@
 import React from 'react';
-import './Home.less';
-
+import './index.less';
 export default class Home extends React.Component {
 
   render() {

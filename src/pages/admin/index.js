@@ -1,12 +1,11 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { Row, Col } from 'antd';
-import Header from './components/Header/Header';
-import Footer from './components/Footer/Footer';
-import NavLeft from './components/NavLeft/NavLeft';
-import Home from './pages/home/index';
-import './style/common.less'
+import Header from '../../components/Header/Header';
+import Footer from '../../components/Footer/Footer';
+import NavLeft from '../../components/NavLeft/NavLeft';
+import '../../style/common.less'
 
-class Admin extends React.Component {
+class Admin extends Component {
 
   render() {
     return (
@@ -17,7 +16,7 @@ class Admin extends React.Component {
         <Col span={20} className="main">
           <Header/>
           <Row className="content">
-            <Home></Home>
+            {this.props.children}
           </Row>
           <Footer/>
         </Col>
