@@ -12,6 +12,8 @@ import Messages from '../pages/ui/messages/index';
 import Tabs from '../pages/ui/tabs/index';
 import Gallery from '../pages/ui/gallery/index';
 import Carousel from '../pages/ui/carousel/index';
+import FormLogin from '../pages/form/login/index';
+import FromRegister from '../pages/form/register/index';
 import NoMatch from '../pages/nomatch/index';
 
 export default class Routes extends Component {
@@ -31,7 +33,10 @@ export default class Routes extends Component {
                   <Route path='/ui/notice' component={Notice}/>
                   <Route path='/ui/messages' component={Messages}/>
                   <Route path='/ui/tabs' component={Tabs}/>
+                  <Route path='/ui/gallery' component={Gallery}/>
                   <Route path='/ui/carousel' component={Carousel}/>
+                  <Route path='/form/login' component={FormLogin}/>
+                  <Route path='/form/register' component={FromRegister}/>
                   <Route component={NoMatch}/>
                   <Redirect to="/home"/>
                 </Switch>
